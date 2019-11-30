@@ -1,0 +1,175 @@
+Name,Country-Name,Age,Bowling-style,Matches,Innings,Balls-bowled,Runs-conceded,Wickets-taken,Best-innings-bowling,Best-match-bowling,Bowling-average,Economy-rate,Bowling_Strike-Rate,Four-wickets-in-an-innings,Five-wickets-in-an-innings,Ten-wickets-in-a-match
+Sean Abbott,Australia,27,Right-arm fast-medium,79,78,1450,2084,91,5/16,5/16,22.90,8.62,15.9,2,1,0
+Ashton Agar,Australia,26,Slow left-arm orthodox,80,72,1352,1657,55,3/17,3/17,30.12,7.35,24.5,0,0,0
+Jason Behrendorff,Australia,29,Left-arm fast-medium,63,61,1352,1632,74,4/21,4/21,22.05,7.24,18.2,2,0,0
+Pat Cummins,Australia,26,Right-arm fast,77,77,1748,2251,92,4/16,4/16,24.46,7.72,19.0,2,0,0
+Aaron Finch,Australia,32,Slow left-arm orthodox,271,27,233,359,7,1/9,1/9,51.28,9.24,33.2,0,0,0
+Josh Hazlewood,Australia,28,Right-arm fast-medium,30,30,695,901,37,4/30,4/30,24.35,7.77,18.7,1,0,0
+Usman Khawaja,Australia,32,Right-arm medium,66,-,-,-,-,-,-,-,-,-,-,-,-
+Marnus Labuschagne,Australia,25,Legbreak,7,4,30,59,1,1/25,1/25,59.00,11.80,30.0,0,0,0
+Ben McDermott,Australia,24,Right-arm medium,45,-,-,-,-,-,-,-,-,-,-,-,-
+Mitchell Marsh,Australia,28,Right-arm medium,74,57,839,1182,43,4/6,4/6,27.48,8.45,19.5,2,0,0
+Tim Paine,Australia,34,Right-arm medium,80,-,-,-,-,-,-,-,-,-,-,-,-
+James Pattinson,Australia,29,Right-arm fast-medium,33,33,687,952,38,4/24,4/24,25.05,8.31,18.0,1,0,0
+Peter Siddle,Australia,34,Right-arm fast-medium,46,45,936,1143,40,4/29,4/29,28.57,7.32,23.4,1,0,0
+Steven Smith,Australia,30,Legbreak googly,181,52,824,1056,54,4/13,4/13,19.55,7.68,15.2,2,0,0
+Mitchell Starc,Australia,29,Left-arm fast,90,89,1974,2338,134,4/15,4/15,17.44,7.10,14.7,1,0,0
+Marcus Stoinis,Australia,30,Right-arm medium,97,76,1166,1691,61,4/15,4/15,27.72,8.70,19.1,3,0,0
+Matthew Wade,Australia,31,Right-arm medium,115,-,-,-,-,-,-,-,-,-,-,-,-
+David Warner,Australia,33,Legbreak,276,1,6,13,0,-,-,-,13.00,-,0,0,0
+Abu Hider,Bangladesh,23,Left-arm fast-medium,53,52,1007,1312,53,4/19,4/19,24.75,7.81,19.0,2,0,0
+Abu Jayed,Bangladesh,26,Right-arm fast-medium,46,44,865,1157,56,4/35,4/35,20.66,8.02,15.4,1,0,0
+Al-Amin Hossain,Bangladesh,29,Right-arm medium-fast,88,86,1734,2343,102,5/17,5/17,22.97,8.10,17.0,0,2,0
+Aminul Islam,Bangladesh,20,Legbreak googly,5,3,66,69,6,2/18,2/18,11.50,6.27,11.0,0,0,0
+Ariful Haque,Bangladesh,26,Right-arm medium-fast,67,8,78,150,6,3/38,3/38,25.00,11.53,13.0,0,0,0
+Ebadot Hossain,Bangladesh,25,Right-arm medium,5,5,102,136,7,4/17,4/17,19.42,8.00,14.5,1,0,0
+Mahmudullah,Bangladesh,33,Right-arm offbreak,202,147,2174,2584,99,3/6,3/6,26.10,7.13,21.9,0,0,0
+Mashrafe Mortaza,Bangladesh,36,Right-arm fast-medium,150,146,3197,3992,138,4/11,4/11,28.92,7.49,23.1,2,0,0
+Mominul Haque,Bangladesh,28,Slow left-arm orthodox,89,14,174,229,6,2/14,2/14,38.16,7.89,29.0,0,0,0
+Mosaddek Hossain,Bangladesh,23,Right-arm offbreak,65,37,399,502,15,2/9,2/9,33.46,7.54,26.6,0,0,0
+Mustafizur Rahman,Bangladesh,24,Left-arm fast-medium,94,94,2092,2541,114,5/22,5/22,22.28,7.28,18.3,2,1,0
+Nayeem Hasan,Bangladesh,18,Right-arm offbreak,17,16,330,384,10,2/10,2/10,38.40,6.98,33.0,0,0,0
+Rubel Hossain,Bangladesh,29,Right-arm fast,98,97,2015,2772,117,5/32,5/32,23.69,8.25,17.2,3,1,0
+Sabbir Rahman,Bangladesh,27,Legbreak,143,31,349,417,18,3/11,3/11,23.16,7.16,19.3,0,0,0
+Shafiul Islam,Bangladesh,30,Right-arm fast-medium,89,87,1702,2299,95,5/26,5/26,24.20,8.10,17.9,2,1,0
+Shakib Al Hasan,Bangladesh,32,Slow left-arm orthodox,308,302,6487,7459,354,6/6,6/6,21.07,6.89,18.3,8,4,0
+Khaled Ahmed,Bangladesh,27,Right-arm medium,18,18,364,504,19,3/20,3/20,26.52,8.30,19.1,0,0,0
+Taijul Islam,Bangladesh,27,Slow left-arm orthodox,71,69,1313,1558,67,3/10,3/10,23.25,7.11,19.5,0,0,0
+Moeen Ali,England,32,Right-arm offbreak,144,119,2123,2673,101,5/34,5/34,26.46,7.55,21.0,1,1,0
+James Anderson,England,37,Right-arm fast-medium,44,44,933,1318,41,3/23,3/23,32.14,8.47,22.7,0,0,0
+Jonny Bairstow,England,30,Right-arm medium,112,-,-,-,-,-,-,-,-,-,-,-,-
+Stuart Broad,England,33,Right-arm fast-medium,85,83,1788,2144,100,4/24,4/24,21.44,7.19,17.8,1,0,0
+Pat Brown,England,21,Right-arm fast-medium,40,39,786,1090,52,4/21,4/21,20.96,8.32,15.1,1,0,0
+Sam Curran,England,21,Left-arm medium-fast,68,67,1311,1875,62,4/11,4/11,30.24,8.58,21.1,2,0,0
+Joe Denly,England,33,Legbreak,204,34,481,637,31,4/19,4/19,20.54,7.94,15.5,1,0,0
+Lewis Gregory,England,27,Right-arm medium-fast,87,80,1489,2211,81,4/15,4/15,27.29,8.90,18.3,3,0,0
+Saqib Mahmood,England,22,Right-arm fast-medium,19,19,338,471,22,4/14,4/14,21.40,8.36,15.3,1,0,0
+Eoin Morgan,England,33,Right-arm medium,281,-,-,-,-,-,-,-,-,-,-,-,-
+Craig Overton,England,25,Right-arm medium-fast,44,43,817,1289,36,3/17,3/17,35.80,9.46,22.6,0,0,0
+Liam Plunkett,England,34,Right-arm fast,148,142,2806,3752,136,5/31,5/31,27.58,8.02,20.6,1,1,0
+Adil Rashid,England,31,Legbreak,166,160,3393,4189,188,4/19,4/19,22.28,7.40,18.0,5,0,0
+Ben Stokes,England,28,Right-arm fast-medium,120,84,1483,2081,64,4/16,4/16,32.51,8.41,23.1,1,0,0
+James Vince,England,28,Right-arm medium,190,6,72,81,3,1/5,1/5,27.00,6.75,24.0,0,0,0
+Chris Woakes,England,30,Right-arm fast-medium,111,108,2175,3040,121,4/21,4/21,25.12,8.38,17.9,1,0,0
+Khaleel Ahmed,India,21,Left-arm medium,38,38,861,1148,61,5/18,5/18,18.81,8.00,14.1,1,1,0
+Jasprit Bumrah,India,25,Right-arm fast,149,149,3324,3932,174,3/7,3/7,22.59,7.09,19.1,0,0,0
+Yuzvendra Chahal,India,29,Legbreak googly,153,151,3219,4038,175,6/25,6/25,23.07,7.52,18.3,4,1,0
+Shikhar Dhawan,India,33,Right-arm offbreak,250,6,48,66,4,1/7,1/7,16.50,8.25,12.0,0,0,0
+Shivam Dube,India,26,Right-arm medium,21,19,243,351,14,3/27,3/27,25.07,8.66,17.3,0,0,0
+Ravindra Jadeja,India,30,Slow left-arm orthodox,232,204,3662,4644,152,5/16,5/16,30.55,7.60,24.0,3,1,0
+Kedar Jadhav,India,34,Right-arm offbreak,120,4,60,88,4,2/23,2/23,22.00,8.80,15.0,0,0,0
+Kuldeep Yadav,India,24,Slow left-arm chinaman,89,88,1917,2385,112,5/17,5/17,21.29,7.46,17.1,3,2,0
+Bhuvneshwar Kumar,India,29,Right-arm medium,167,167,3686,4401,179,5/19,5/19,24.58,7.16,20.5,2,2,0
+Shahbaz Nadeem,India,30,Slow left-arm orthodox,117,115,2464,2799,98,3/16,3/16,28.56,6.81,25.1,0,0,0
+Manish Pandey,India,30,Right-arm medium,224,10,168,212,10,4/27,4/27,21.20,7.57,16.8,2,0,0
+Krunal Pandya,India,28,Slow left-arm orthodox,96,93,1748,2119,77,4/36,4/36,27.51,7.27,22.7,1,0,0
+Ajinkya Rahane,India,31,Right-arm medium,196,1,6,5,1,1/5,1/5,5.00,5.00,6.0,0,0,0
+Navdeep Saini,India,26,Right-arm fast,39,39,867,1039,36,3/17,3/17,28.86,7.19,24.0,0,0,0
+Ishant Sharma,India,31,Right-arm fast-medium,133,133,2851,3705,106,5/12,5/12,34.95,7.79,26.8,1,1,0
+Hanuma Vihari,India,26,Right-arm offbreak,74,32,408,500,22,3/21,3/21,22.72,7.35,18.5,0,0,0
+Washington Sundar,India,20,Right-arm offbreak,50,49,1002,1138,45,3/16,3/16,25.28,6.81,22.2,0,0,0
+Todd Astle,New Zealand,33,Legbreak,59,52,990,1177,43,3/18,3/18,27.37,7.13,23.0,0,0,0
+Trent Boult,New Zealand,30,Left-arm fast-medium,94,94,2033,2849,103,4/34,4/34,27.66,8.40,19.7,1,0,0
+Tom Bruce,New Zealand,28,Right-arm offbreak,66,6,43,61,3,1/11,1/11,20.33,8.51,14.3,0,0,0
+Mark Chapman,New Zealand,25,Slow left-arm orthodox,73,19,228,314,11,3/22,3/22,28.54,8.26,20.7,0,0,0
+Lockie Ferguson,New Zealand,28,Right-arm fast,51,51,1038,1331,47,4/26,4/26,28.31,7.69,22.0,1,0,0
+Martin Guptill,New Zealand,33,Right-arm offbreak,235,4,24,35,0,-,-,-,8.75,-,0,0,0
+Scott Kuggeleijn,New Zealand,27,Right-arm fast-medium,81,80,1577,2254,72,4/18,4/18,31.30,8.57,21.9,1,0,0
+Tom Latham,New Zealand,27,Right-arm medium,77,-,-,-,-,-,-,-,-,-,-,-,-
+Colin Munro,New Zealand,32,Right-arm medium-fast,236,58,572,879,29,4/15,4/15,30.31,9.22,19.7,1,0,0
+James Neesham,New Zealand,29,Right-arm medium-fast,110,98,1734,2635,102,4/24,4/24,25.83,9.11,17.0,2,0,0
+Ajaz Patel,New Zealand,31,Slow left-arm orthodox,36,36,714,957,41,3/24,3/24,23.34,8.04,17.4,0,0,0
+Seth Rance,New Zealand,32,Right-arm medium,65,63,1340,1742,83,4/13,4/13,20.98,7.80,16.1,2,0,0
+Hamish Rutherford,New Zealand,30,Slow left-arm orthodox,126,1,6,11,0,-,-,-,11.00,-,0,0,0
+Mitchell Santner,New Zealand,27,Slow left-arm orthodox,76,74,1571,1834,82,4/11,4/11,22.36,7.00,19.1,1,0,0
+Ish Sodhi,New Zealand,27,Legbreak,136,132,2805,3669,154,6/11,6/11,23.82,7.84,18.2,2,1,0
+William Somerville,New Zealand,35,Right-arm offbreak,18,17,334,417,14,3/28,3/28,29.78,7.49,23.8,0,0,0
+Ross Taylor,New Zealand,35,Right-arm offbreak,267,15,186,280,8,3/28,3/28,35.00,9.03,23.2,0,0,0
+Blair Tickner,New Zealand,26,Right-arm medium-fast,33,33,720,981,54,5/19,5/19,18.16,8.17,13.3,2,1,0
+Kane Williamson,New Zealand,29,Right-arm offbreak,178,53,758,885,30,3/33,3/33,29.50,7.00,25.2,0,0,0
+Abid Ali,Pakistan,32,Legbreak,44,-,-,-,-,-,-,-,-,-,-,-,-
+Ahmed Shehzad,Pakistan,27,Legbreak,212,19,229,344,12,2/10,2/10,28.66,9.01,19.0,0,0,0
+Babar Azam,Pakistan,25,Right-arm offbreak,129,5,78,85,4,2/20,2/20,21.25,6.53,19.5,0,0,0
+Faheem Ashraf,Pakistan,25,Right-arm medium,83,81,1616,2150,93,6/19,6/19,23.11,7.98,17.3,1,1,0
+Haris Sohail,Pakistan,30,Slow left-arm orthodox,78,3,42,58,3,1/17,1/17,19.33,8.28,14.0,0,0,0
+Hasan Ali,Pakistan,25,Right-arm medium-fast,93,92,2016,2535,124,5/20,5/20,20.44,7.54,16.2,4,1,0
+Imad Wasim,Pakistan,30,Slow left-arm orthodox,165,159,3392,3568,148,5/14,5/14,24.10,6.31,22.9,1,1,0
+Mohammad Abbas,Pakistan,29,Right-arm medium-fast,24,23,492,685,20,3/22,3/22,34.25,8.35,24.6,0,0,0
+Mohammad Hafeez,Pakistan,39,Right-arm offbreak,274,203,3773,3994,174,4/10,4/10,22.95,6.35,21.6,4,0,0
+Mohammad Hasnain,Pakistan,19,Right-arm fast,20,20,474,662,31,3/30,3/30,21.35,8.37,15.2,0,0,0
+Mohammad Nawaz,Pakistan,25,Slow left-arm orthodox,117,107,2056,2434,96,5/24,5/24,25.35,7.10,21.4,2,1,0
+Shadab Khan,Pakistan,21,Legbreak,101,99,2242,2541,123,4/14,4/14,20.65,6.80,18.2,3,0,0
+Shan Masood,Pakistan,30,Right-arm medium-fast,40,-,-,-,-,-,-,-,-,-,-,-,-
+Shoaib Malik,Pakistan,37,Right-arm offbreak,360,206,3169,3699,142,5/13,5/13,26.04,7.00,22.3,1,2,0
+Usman Shinwari,Pakistan,25,Left-arm medium-fast,72,71,1499,1908,91,5/9,5/9,20.96,7.63,16.4,3,2,0
+Wahab Riaz,Pakistan,34,Left-arm fast,229,225,4855,5784,266,5/17,5/17,21.74,7.14,18.2,0,1,0
+Hashim Amla,South Africa,36,"Right-arm medium, Right-arm offbreak",154,2,2,5,0,-,-,-,15.00,-,0,0,0
+Temba Bavuma,South Africa,29,Right-arm medium,63,-,-,-,-,-,-,-,-,-,-,-,-
+Theunis de Bruyn,South Africa,27,Right-arm medium-fast,58,6,66,94,1,1/28,1/28,94.00,8.54,66.0,0,0,0
+Faf du Plessis,South Africa,35,Legbreak,206,52,790,917,50,5/19,5/19,18.34,6.96,15.8,1,2,0
+Dean Elgar,South Africa,32,Slow left-arm orthodox,66,42,615,701,29,4/23,4/23,24.17,6.83,21.2,1,0,0
+Beuran Hendricks,South Africa,29,Left-arm fast-medium,65,63,1310,1796,91,6/29,6/29,19.73,8.22,14.3,2,1,0
+Reeza Hendricks,South Africa,30,Right-arm offbreak,119,-,-,-,-,-,-,-,-,-,-,-,-
+George Linde,South Africa,27,Slow left-arm orthodox,75,72,1489,1811,77,4/19,4/19,23.51,7.29,19.3,2,0,0
+Aiden Markram,South Africa,25,Right-arm offbreak,41,16,231,255,7,3/21,3/21,36.42,6.62,33.0,0,0,0
+David Miller,South Africa,30,Right-arm offbreak,293,3,18,31,0,-,-,-,10.33,-,0,0,0
+Senuran Muthusamy,South Africa,25,Slow left-arm orthodox,27,23,394,381,23,4/12,4/12,16.56,5.80,17.1,1,0,0
+Lungi Ngidi,South Africa,23,Right-arm fast,50,49,920,1075,59,4/10,4/10,18.22,7.01,15.5,3,0,0
+Andile Phehlukwayo,South Africa,23,Right-arm fast-medium,77,69,1184,1611,65,5/26,5/26,24.78,8.16,18.2,1,1,0
+Vernon Philander,South Africa,34,Right-arm fast-medium,117,109,2098,2762,91,5/17,5/17,30.35,7.89,23.0,1,2,0
+Dwaine Pretorius,South Africa,30,Right-arm medium-fast,125,107,1665,2301,80,4/22,4/22,28.76,8.29,20.8,1,0,0
+Kagiso Rabada,South Africa,24,Right-arm fast,71,69,1545,1957,97,4/21,4/21,20.17,7.60,15.9,3,0,0
+Lutho Sipamla,South Africa,21,Right-arm fast,28,26,550,757,32,3/19,3/19,23.65,8.25,17.1,0,0,0
+Rassie van der Dussen,South Africa,30,Legbreak,101,6,54,55,3,2/15,2/15,18.33,6.11,18.0,0,0,0
+Akila Dananjaya,Sri Lanka,26,"Right-arm offbreak, Legbreak",64,60,1300,1569,73,4/17,4/17,21.49,7.24,17.8,1,0,0
+Wanindu Hasaranga,Sri Lanka,22,Legbreak,31,28,507,626,34,5/26,5/26,18.41,7.40,14.9,0,1,0
+Nuwan Pradeep,Sri Lanka,33,Right-arm fast-medium,45,45,814,1088,47,5/17,5/17,23.14,8.01,17.3,2,1,0
+Oshada Fernando,Sri Lanka,27,Legbreak,18,-,-,-,-,-,-,-,-,-,-,-,-
+Danushka Gunathilaka,Sri Lanka,28,Right-arm offbreak,78,41,612,775,30,4/21,4/21,25.83,7.59,20.4,1,0,0
+Shehan Jayasuriya,Sri Lanka,28,Right-arm offbreak,68,53,842,1007,43,5/15,5/15,23.41,7.17,19.5,0,1,0
+Lahiru Kumara,Sri Lanka,22,Right-arm fast,11,11,240,278,15,3/31,3/31,18.53,6.95,16.0,0,0,0
+Suranga Lakmal,Sri Lanka,32,Right-arm fast-medium,45,43,895,1204,50,5/34,5/34,24.08,8.07,17.9,0,1,0
+Lasith Malinga,Sri Lanka,36,Right-arm fast,289,284,6394,7485,387,6/7,6/7,19.34,7.02,16.5,10,5,0
+Angelo Mathews,Sri Lanka,32,Right-arm medium,153,117,2037,2507,79,4/19,4/19,31.73,7.38,25.7,1,0,0
+Angelo Perera,Sri Lanka,29,Slow left-arm orthodox,82,22,276,350,16,3/15,3/15,21.87,7.60,17.2,0,0,0
+Dilruwan Perera,Sri Lanka,37,Right-arm offbreak,76,72,1375,1497,69,3/14,3/14,21.69,6.53,19.9,0,0,0
+Thisara Perera,Sri Lanka,30,Right-arm medium-fast,264,239,4181,5977,227,5/26,5/26,26.33,8.57,18.4,1,1,0
+Bhanuka Rajapaksa,Sri Lanka,28,Right-arm medium,57,13,210,261,17,3/18,3/18,15.35,7.45,12.3,0,0,0
+Lakshan Sandakan,Sri Lanka,28,Slow left-arm chinaman,43,42,898,1084,46,4/18,4/18,23.56,7.24,19.5,3,0,0
+Lahiru Thirimanne,Sri Lanka,30,Right-arm medium-fast,80,-,-,-,-,-,-,-,-,-,-,-,-
+Isuru Udana,Sri Lanka,31,Left-arm medium-fast,122,118,2358,3141,134,4/31,4/31,23.44,7.99,17.5,2,0,0
+Fabian Allen,West Indies,24,Slow left-arm orthodox,26,23,373,468,14,2/19,2/19,33.42,7.52,26.6,0,0,0
+Carlos Brathwaite,West Indies,31,Right-arm fast-medium,159,153,2887,3913,139,4/15,4/15,28.15,8.13,20.7,3,0,0
+Shamarh Brooks,West Indies,31,Legbreak,24,-,-,-,-,-,-,-,-,-,-,-,-
+John Campbell,West Indies,26,Right-arm offbreak,10,1,6,1,0,-,-,-,1.00,-,0,0,0
+Rahkeem Cornwall,West Indies,26,Right-arm offbreak,41,38,550,715,22,3/10,3/10,32.50,7.80,25.0,0,0,0
+Sheldon Cottrell,West Indies,30,Left-arm fast-medium,77,77,1663,2063,111,4/20,4/20,18.58,7.44,14.9,2,0,0
+Shannon Gabriel,West Indies,31,Right-arm fast,39,37,642,802,32,3/19,3/19,25.06,7.49,20.0,0,0,0
+Chris Gayle,West Indies,40,Right-arm offbreak,394,132,1946,2483,80,4/22,4/22,31.03,7.65,24.3,2,0,0
+Jason Holder,West Indies,28,Right-arm medium-fast,100,99,2007,2565,77,4/27,4/27,33.31,7.66,26.0,1,0,0
+Alzarri Joseph,West Indies,22,Right-arm fast-medium,19,19,403,634,24,6/12,6/12,26.41,9.43,16.7,1,1,0
+Keemo Paul,West Indies,21,Right-arm fast-medium,48,46,865,1262,47,5/15,5/15,26.85,8.75,18.4,0,1,0
+Khary Pierre,West Indies,28,Slow left-arm orthodox,29,29,602,697,27,3/29,3/29,25.81,6.94,22.2,0,0,0
+Rovman Powell,West Indies,26,Right-arm medium-fast,62,23,330,581,14,2/21,2/21,41.50,10.56,23.5,0,0,0
+Romario Shepherd,West Indies,24,Right-arm medium-fast,13,12,238,335,17,4/13,4/13,19.70,8.44,14.0,1,0,0
+Oshane Thomas,West Indies,22,Right-arm fast,34,34,726,1106,46,4/53,4/53,24.04,9.14,15.7,1,0,0
+Ryan Burl,Zimbabwe,25,Legbreak,29,18,234,331,11,3/24,3/24,30.09,8.48,21.2,0,0,0
+Regis Chakabva,Zimbabwe,32,Right-arm offbreak,60,-,-,-,-,-,-,-,-,-,-,-,-
+Tendai Chatara,Zimbabwe,28,Right-arm fast-medium,58,58,1238,1506,64,4/29,4/29,23.53,7.29,19.3,1,0,0
+Elton Chigumbura,Zimbabwe,33,Right-arm fast-medium,147,87,1359,1907,77,5/13,5/13,24.76,8.41,17.6,4,1,0
+Craig Ervine,Zimbabwe,34,Right-arm offbreak,62,-,-,-,-,-,-,-,-,-,-,-,-
+Daniel Jakiel,Zimbabwe,28,Right-arm fast-medium,6,5,108,147,7,3/34,3/34,21.00,8.16,15.4,0,0,0
+Tinashe Kamunhukamwe,Zimbabwe,24,Right-arm offbreak,10,-,-,-,-,-,-,-,-,-,-,-,-
+Neville Madziva,Zimbabwe,28,Right-arm medium-fast,39,39,682,953,27,4/34,4/34,35.29,8.38,25.2,1,0,0
+Hamilton Masakadza,Zimbabwe,36,Right-arm medium,130,29,336,380,19,2/6,2/6,20.00,6.78,17.6,0,0,0
+Wellington Masakadza,Zimbabwe,26,Slow left-arm orthodox,28,28,582,657,31,4/28,4/28,21.19,6.77,18.7,1,0,0
+Brandon Mavuta,Zimbabwe,22,Legbreak,15,14,282,393,9,1/19,1/19,43.66,8.36,31.3,0,0,0
+Solomon Mire,Zimbabwe,30,Right-arm medium-fast,29,16,255,382,14,3/24,3/24,27.28,8.98,18.2,0,0,0
+Chris Mpofu,Zimbabwe,33,Right-arm fast-medium,77,76,1631,2101,80,4/17,4/17,26.26,7.72,20.3,2,0,0
+Tony Munyonga,Zimbabwe,20,Right-arm offbreak,6,1,6,3,0,-,-,-,3.00,-,0,0,0
+Tinotenda Mutombodzi,Zimbabwe,28,Legbreak googly,53,42,729,898,35,4/20,4/20,25.65,7.39,20.8,1,0,0
+Richmond Mutumbami,Zimbabwe,30,Right-arm offbreak,59,-,-,-,-,-,-,-,-,-,-,-,-
+Richard Ngarava,Zimbabwe,21,Left-arm fast-medium,14,13,260,345,10,2/19,2/19,34.50,7.96,26.0,0,0,0
+Sikandar Raza,Zimbabwe,33,Right-arm offbreak,100,65,967,1226,35,4/16,4/16,35.02,7.60,27.6,1,0,0
+Donald Tiripano,Zimbabwe,31,Right-arm fast-medium,36,33,645,846,36,3/19,3/19,23.50,7.86,17.9,0,0,0
+Sean Williams,Zimbabwe,33,Slow left-arm orthodox,66,62,1110,1315,50,3/15,3/15,26.30,7.10,22.2,0,0,0
